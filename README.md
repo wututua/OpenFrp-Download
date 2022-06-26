@@ -1,2 +1,2 @@
 # OpenFrp-Download
-OpenFrp Github镜像源
+OpenFrp 镜像源
